@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nyobanyoba</string>
+    <string name="txt_splash">By signing up, you are agree with our
+        <u>
+            <font color='#3b5998'>
+                Terms &amp; Conditions
+            </font>
+        </u>
+    </string>
+    <string name="txt_login">Welcome Back!</string>
+
+</resources>
